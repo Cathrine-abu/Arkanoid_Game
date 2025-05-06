@@ -54,13 +54,14 @@ The objective is to destroy all the blocks by bouncing balls off a paddle that y
 ---
 
 ## Setup and Usage
-
+```bash
 ### Clone the repository
 git clone https://github.com/YOUR_USERNAME/arkanoid_game.git](https://github.com/Cathrine-abu/Arkanoid_Game.git)
+```
 ---
 
 ## Compile and Run
-
+```bash
 cd arkanoid_game
 Option 1: Using javac manually
 mkdir bin
@@ -71,8 +72,9 @@ Option 2: Use Ant (if build.xml is configured)
 ant
 java -cp "dist/arkanoid_game.jar;biuoop-1.4.jar" Ass5Game
 ---
+```
 ## Project Structure
-
+```bash
 arkanoid_game/
 │
 ├── src/                      # Source files organized into packages:
@@ -87,3 +89,4 @@ arkanoid_game/
 ├── build.xml                 # (Optional) Ant build file
 ├── .gitignore                # Git ignore rules
 └── README.md                 # You're reading it
+```
