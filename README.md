@@ -56,8 +56,7 @@ The objective is to destroy all the blocks by bouncing balls off a paddle that y
 ## Setup and Usage
 
 ### Clone the repository
-
-git clone https://github.com/YOUR_USERNAME/arkanoid_game.git
+git clone https://github.com/YOUR_USERNAME/arkanoid_game.git](https://github.com/Cathrine-abu/Arkanoid_Game.git)
 ---
 
 ## Compile and Run
