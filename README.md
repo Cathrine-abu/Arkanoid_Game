@@ -64,6 +64,7 @@ git clone https://github.com/YOUR_USERNAME/arkanoid_game.git](https://github.com
 ## Compile and Run
 ```bash
 cd arkanoid_game
+
 Option 1: Using javac manually
 mkdir bin
 javac -cp biuoop-1.4.jar -d bin src/**/*.java Ass5Game.java
